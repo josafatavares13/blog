@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6oigpn@83&w-*3huabf-!@ium$$x=0z!l2pcvxb-o5c%@^+5+8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['josafa.camvoip.com.br']
+ALLOWED_HOSTS = ['https://josafatavares.github.io/']
 
 
 # Application definition
